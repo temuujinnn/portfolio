@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mountain King
+* source:	https://sketchfab.com/3d-models/mountain-king-2eb21daf408141d1b2df1d91426935ad
+* author:	Pierre-Antoine (https://sketchfab.com/pa)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mountain King" (https://sketchfab.com/3d-models/mountain-king-2eb21daf408141d1b2df1d91426935ad) by Pierre-Antoine (https://sketchfab.com/pa) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
